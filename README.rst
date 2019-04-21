@@ -1,8 +1,13 @@
 FileChooserThumbView
 ====================
 
+<img src="https://raw.githubusercontent.com/kivy-garden/garden.filechooserthumbview/master/screenshot.png" align="right" width="256" />
+
+
 The FileChooserThumbView widget is similar to FileChooserIconView,
 but if possible it shows a thumbnail instead of a normal icon.
+
+
 
 Usage
 -----
